@@ -46,6 +46,7 @@ const routes: Routes = [
     AppComponent,
     NavbarComponent,
     ProductsComponent,
+    ProfileComponent,
     RouterModule.forRoot(routes),
 
 
